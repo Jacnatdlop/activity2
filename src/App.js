@@ -1,5 +1,4 @@
 import Counter from './Components/Counter';
-import Event from './Components/Event';
 import './App.css';
 
 
@@ -8,7 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <Counter/>
-        <Event/>
+        
       </header>
     </div>
   );
