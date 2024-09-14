@@ -1,0 +1,15 @@
+.notfound-container {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .notfound-container h1 {
+    font-size: 3em;
+    color: #f44336;
+  }
+  
+  .notfound-container p {
+    font-size: 1.5em;
+    color: #555;
+  }
+  
